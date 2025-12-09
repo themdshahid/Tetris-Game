@@ -1,4 +1,6 @@
 A classic Tetris game built using Python and Pygame.
+
+fun fact:- It is the world most downloaded game ever
  
  Before run the game, install :-
 
